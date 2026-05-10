@@ -1,2 +1,2 @@
-# Aulas
-Exercícios entregues
+# Anotações
+Nenhuma aula ainda compartilhou código no git
